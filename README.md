@@ -1,2 +1,2 @@
-# Webteknolojileri
+# webteknolojileri
 webteknolojileri
