@@ -1,0 +1,40 @@
+* {
+    box-sizing: border-box;
+ }
+ body{
+ 
+     margin: 0;
+     padding: 0;
+ }
+ 
+ table ,tr,td,th{
+     
+     border: 2px solid black;
+     text-align: center;
+      
+ }
+ th{
+     background-color: #E53935;
+     color:white;
+ }
+ 
+ tr{
+     background-color: #EF9A9A;
+ }
+ 
+ th, td {
+   padding: 5px;
+ }
+ 
+ .kapsa{
+     margin-top: 50px;
+     margin-bottom: 50px;
+     
+     
+     
+ }
+ .liste{
+     list-style: none;
+ }
+    
+ 
