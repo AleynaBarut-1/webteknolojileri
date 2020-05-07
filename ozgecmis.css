@@ -5,13 +5,15 @@
  
      margin: 0;
      padding: 0;
+     
  }
  
  table ,tr,td,th{
      
      border: 2px solid black;
-     text-align: center;
-      
+     text-align: center; 
+     margin-left:auto; 
+     margin-right:auto;
  }
  th{
      background-color: #E53935;
@@ -28,10 +30,7 @@
  
  .kapsa{
      margin-top: 50px;
-     margin-bottom: 50px;
-     
-     
-     
+     margin-bottom: 50px; 
  }
  .liste{
      list-style: none;

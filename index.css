@@ -5,13 +5,11 @@ body{
     margin: 0;
     padding: 0;
 }
-
 .stil{
     background-color:	#00838F;
 }
 .cart{
     background-color: #DAA520;
-font-style: oblique;
+    font-style: oblique;
     font-weight: bold;
-
 }
