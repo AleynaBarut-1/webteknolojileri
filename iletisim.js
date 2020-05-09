@@ -22,7 +22,6 @@ function validateForm(){
     alert("Konu Alanını Boş Bırakmayınız.");
     return false;
     }
-    
     var mesaj= document.forms["form"]["mesaj"].value;
     if(mesaj==""){
     alert("Mesaj Alanını Boş Bırakmayınız.");
