@@ -2,7 +2,7 @@
 
 ## Project Description
 
-**Discover Ankara** is a simple blog project created using **HTML**, **CSS**, **JavaScript**, and **PHP** for the **Web Technologies** course. The website aims to provide visitors with insights about the city of **Ankara**, Turkey. It includes various posts related to the city's culture, landmarks, history, and more. Users can explore different blog categories, read posts, and leave comments.
+**Discover Ankara** is a simple blog project created using **HTML**, **CSS**, **JavaScript**, and **PHP** . The website aims to provide visitors with insights about the city of **Ankara**, Turkey. It includes various posts related to the city's culture, landmarks, history, and more. Users can explore different blog categories, read posts, and leave comments.
 
 ## Key Features
 - **Responsive Design**: Built with HTML and CSS, ensuring an optimized viewing experience on any device.
